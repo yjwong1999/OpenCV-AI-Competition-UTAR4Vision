@@ -34,10 +34,10 @@ The Pipelines involved:
 - contains the functions for obstacle avoidance, social distancing
 
 ## Sample Codes
-1. **main**
+1. **main.py**
 - the consolidated code
 - flowchart will be added soon
-2. **oakd_navigation**
+2. **oakd_navigation.py**
 - demo code for navigation
 3. **oakd_segmentation.py**
 - demo code for road segmentation
