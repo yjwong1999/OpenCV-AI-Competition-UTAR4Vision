@@ -35,3 +35,16 @@ Close Object (within 1m)
 ### Indoor Path
 <img src="https://raw.githubusercontent.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/main/others/Walkable%20Path%20Segmentation%20-%20Indoor.png" 
      alt="Indoor Path" width=400><br>
+
+## 4. Personal Protection Equipment (PPE) Detector
+A Yolo model is used to detect PPE for the user, including:
+- Facemask
+- Sanitizer
+- Thermometer
+
+### Face Mask
+<img src="https://raw.githubusercontent.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/main/others/ppe-facemask.png" 
+     alt="Face Mask" width=400><br>
+### Sanitizer
+<img src="https://raw.githubusercontent.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/main/others/ppe-sanitizer.png" 
+     alt="Sanitizer" width=400><br>
