@@ -1,4 +1,5 @@
 # OpenCV-AI-Competition-UTAR4Vision
+This is the github repository for our team project - **Visually Impaired Assistance in COVID-19 Pandemic Outbreak**<br>
 Please refer the links before for the demonstrations of the project.<br>
 [Demonstration Sample Images](https://github.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/blob/main/demo/Demo.md)<br>
 [Demonstration Video](https://youtu.be/kVfaFBObXq0)
