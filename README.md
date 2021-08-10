@@ -62,3 +62,6 @@ Python file starting with "oakd_" prefixes are demonstration code for each of th
 - demo code for ppe detection (without voice command)
 - user has to type the item that he/she wants to search for
 - this is demonstration code for anyone not using the Google Speech to Text API
+### 7. gps.py
+- the demo code for our gps system
+- it is seperated out from the main.py because it is hardware-dependant code
