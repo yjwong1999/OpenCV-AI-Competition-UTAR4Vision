@@ -17,8 +17,8 @@ Some important terminologies for a better understanding on the readme
 <img src="https://user-images.githubusercontent.com/55955482/126036064-95e69b4f-7579-44f1-bb06-b003ed24fb72.png" 
      alt="depthai" width=600><br>
 
-# Utilites file
-
+# Utilites files
+The utilities files are Python Modules consisting useful functions or classes that will be used in the main code and demo codes.
 ## 1. depthai_utils
 Contains the code for each of the Pipeline required in this project<br><br>
 The **Pipelines** involved are:
@@ -41,6 +41,8 @@ The **Pipelines** involved are:
 - contains the functions for obstacle avoidance, social distancing
 
 # Sample Codes
+Python file starting with "oakd_" prefixes are demonstration code for each of the tasks we addressed<br>
+
 ### 1. main.py
 - the consolidated code
 - flowchart will be added soon
