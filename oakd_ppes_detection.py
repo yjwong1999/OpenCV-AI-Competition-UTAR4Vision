@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 17 19:28:28 2021
 
-@author: e-default
+@author: Wong Yi Jie
 """
 from task_utils import SpeechRecognizer
 from depthai_utils import PpesPipeline
@@ -23,7 +23,11 @@ speech.task = 'search'
 # run the pipeline
 try:
     ppesPipeline.run(speech)
+    speech.listen = False
+    speech.end = True     
+    speech.join()  
 except:
     speech.listen = False
     speech.end = True     
     speech.join()    
+    raise
