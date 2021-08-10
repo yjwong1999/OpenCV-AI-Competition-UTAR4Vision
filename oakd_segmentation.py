@@ -8,4 +8,7 @@ from depthai_utils import SegmentPipeline
 
 segmentationModelPath = r'models\path_segmentation.blob'
 segmentPipeline = SegmentPipeline(segmentationModelPath)
-segmentPipeline.run()
+try:
+    segmentPipeline.run()
+except:
+    raise
