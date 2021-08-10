@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 17 01:26:43 2021
 
-@author: e-default
+@author: Wong Yi Jie
 """
 from depthai_utils import SegmentPipeline
 
