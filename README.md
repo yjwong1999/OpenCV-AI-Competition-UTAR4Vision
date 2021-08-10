@@ -1,6 +1,7 @@
 # OpenCV-AI-Competition-UTAR4Vision
 Please refer the link before for some demonstration image of the project.<br>
-[Demonstration Samples](https://github.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/blob/main/demo/Demo.md)
+[Demonstration Sample Images](https://github.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/blob/main/demo/Demo.md)<br>
+[Demonstration Video](https://drive.google.com/file/d/17MhLnoijZUo6YUl7zlxEkXu-qxgSOTll/view?usp=sharing)
 
 ## Terminology
 1. **OAK-D**
