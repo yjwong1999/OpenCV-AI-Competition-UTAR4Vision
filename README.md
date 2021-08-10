@@ -49,6 +49,11 @@ The **Pipelines** involved are:
 ### 3. oakd_segmentation.py
 - demo code for road segmentation
 ### 4. oakd_traffic_light.py
-- demo code for pedestrian traffic ligth detection
-### 5. oakd_ppes_detection.py
+- demo code for pedestrian traffic light detection
+### 5. oakd_ppes.py
 - demo code for ppe detection
+- use voice command to search for ppe items
+### 6. oakd_ppes_no_audio.py
+- demo code for ppe detection (without voice command)
+- user has to type the item that he/she wants to search for
+- this is demonstration code for anyone not using the Google Speech to Text API
