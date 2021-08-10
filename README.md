@@ -46,8 +46,9 @@ The **Pipelines** involved are:
 Python file starting with "oakd_" prefixes are demonstration code for each of the tasks we addressed<br>
 
 ### 1. main.py
-- the consolidated code
-- flowchart will be added soon
+- the consolidated code<br>
+<img src="https://raw.githubusercontent.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/main/others/program%20flowchart.png" 
+     alt="flowchart" width=600><br>
 ### 2. oakd_navigation.py
 - demo code for navigation
 ### 3. oakd_segmentation.py
