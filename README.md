@@ -1,7 +1,7 @@
 # OpenCV-AI-Competition-UTAR4Vision
 Please refer the links before for the demonstrations of the project.<br>
 [Demonstration Sample Images](https://github.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/blob/main/demo/Demo.md)<br>
-[Demonstration Video](https://drive.google.com/file/d/17MhLnoijZUo6YUl7zlxEkXu-qxgSOTll/view?usp=sharing)
+[Demonstration Video](https://youtu.be/kVfaFBObXq0)
 
 # Terminology
 Some important terminologies for a better understanding on the readme
