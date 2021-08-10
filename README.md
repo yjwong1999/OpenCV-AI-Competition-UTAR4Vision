@@ -7,6 +7,7 @@ Please refer the links before for the demonstrations of the project.<br>
 
 # Terminology
 Some important terminologies for a better understanding on the readme
+
 ### 1. OAK-D
 - an OpenCV AI Kit (with depth) device 
 - has a stereo camera setup, and have Intel VPU (Vision Processing Unit) chip in it
@@ -18,7 +19,8 @@ Some important terminologies for a better understanding on the readme
      alt="depthai" width=600><br>
 
 # Utilites files
-The utilities files are Python Modules consisting useful functions or classes that will be used in the main code and demo codes.
+The utilities files are Python Modules consisting useful functions or classes that will be used in the main code and demo codes.<br>
+
 ## 1. depthai_utils
 Contains the code for each of the Pipeline required in this project<br><br>
 The **Pipelines** involved are:
