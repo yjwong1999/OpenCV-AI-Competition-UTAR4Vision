@@ -23,6 +23,8 @@ labelMap = ["background", "aeroplane", "bicycle", "bird", "boat", "bottle", "bus
 #-------------------------------------------------------------------------------
 # define the resolution 
 #-------------------------------------------------------------------------------
-resolution = 400
-navPipeline = NavPipeline(nnPath=model_path, labelMap=labelMap)
-navPipeline.run()
+try:
+    navPipeline = NavPipeline(nnPath=model_path, labelMap=labelMap)
+    navPipeline.run()
+except:
+    raise
