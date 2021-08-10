@@ -13,7 +13,7 @@ Some important terminologies for a better understanding on the readme
 - [OAK-D specs](https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html#bw1098oak)
 ### 2. Pipeline
 - a pipeline is the workflow on the OAK-D side, 
-- it consists of nodes (such as monocam node, neural network node, and etc.), together with the connections between them
+- it consists of nodes (such as monocam node, neural network node, and etc.), together with the connections between them<br>
 <img src="https://user-images.githubusercontent.com/55955482/126036064-95e69b4f-7579-44f1-bb06-b003ed24fb72.png" 
      alt="depthai" width=600><br>
 
