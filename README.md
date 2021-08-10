@@ -1,4 +1,5 @@
 # OpenCV-AI-Competition-UTAR4Vision
+We are team **UTAR4Vision**!<br>
 This is the github repository for our team project - **Visually Impaired Assistance in COVID-19 Pandemic Outbreak**<br>
 Please refer the links before for the demonstrations of the project.<br>
 [Demonstration Sample Images](https://github.com/yjwong1999/OpenCV-AI-Competition-UTAR4Vision/blob/main/demo/Demo.md)<br>
@@ -8,7 +9,7 @@ Please refer the links before for the demonstrations of the project.<br>
 Some important terminologies for a better understanding on the readme
 ### 1. OAK-D
 - an OpenCV AI Kit (with depth) device 
-- has a stereo camera setup, and have Intel VPU chip in it
+- has a stereo camera setup, and have Intel VPU (Vision Processing Unit) chip in it
 - [OAK-D specs](https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html#bw1098oak)
 ### 2. Pipeline
 - a pipeline is the workflow on the OAK-D side, 
